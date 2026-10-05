@@ -1,0 +1,40 @@
+.:
+total 0
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:13 .
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:15 ..
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:13 archives
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:14 projects
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:13 tools
+
+./archives:
+total 0
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:13 .
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:13 ..
+
+./projects:
+total 0
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:14 .
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:13 ..
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:14 web
+
+./projects/web:
+total 0
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:14 .
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:14 ..
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:14 backend
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:14 frontend
+
+./projects/web/backend:
+total 0
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:14 .
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:14 ..
+
+./projects/web/frontend:
+total 0
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:14 .
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:14 ..
+
+./tools:
+total 0
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:13 .
+drwxrwxrwx 1 mo_kamel02 mo_kamel02 4096 Oct  4 01:13 ..
