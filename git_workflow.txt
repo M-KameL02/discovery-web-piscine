@@ -1,5 +1,0 @@
-Complete Git Edit-Add-Commit-Push Cycle :
-1. Edit : Create or modified project files in the working directory (e.g.,editing README.md).
-2. Add : Stage modified files using 'git add <filename>'or'git add.' to prepare them for commit.
-3. Commit : Save staged changes to local repository history using 'git commit -m "Clear commit message"'.
-4. Push: Sync local commits to the remote Github repository using 'git push origin main'.
